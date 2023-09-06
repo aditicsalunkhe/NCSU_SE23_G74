@@ -1,9 +1,12 @@
-# Score tables for alotted projects
+# Score tables for allotted projects
 ## Project 1 
-Project title - 
+Project title - Schedule Bot
 Project link - 
 Project description - 
-Reviewers : Ishan 
+Reviewers: Ishan 
+
+
+
 
 | Notes                                               | Evidence                                                    | Score |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
