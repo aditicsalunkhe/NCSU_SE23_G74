@@ -16,7 +16,7 @@
 | Number of commits                                   | in GH                                                       | 2     |
 | Number of commits: by different people              | in GH                                                       | 2*    |
 | Issues reports: there are many                      | #closed/#total issues                                        | 2*    |
-| Issues are being closed                             | evidence in GH - Link                                       | 1     |
+| Issues are being closed                             | evidence in GH - [Link](https://github.com/tanay105/Classroom-Bot/issues?page=3&q=is%3Aclosed+sort%3Arelevance-desc)                                       | 1     |
 | DOI badge: exists                                   | in GH                                                       | 2     |
 | Docs: doco generated, format not ugly               | in GH                                                       | 1     |
 | Docs: what: point descriptions of each class/function (in isolation) | Based on Comprehensiveness                                    | 1*    |
