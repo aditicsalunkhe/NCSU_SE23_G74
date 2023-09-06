@@ -11,7 +11,7 @@
 | Notes                                               | Evidence                                                    | Score |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
 | Video                                               | 2min video of new functionality, showing a significant delta from prior. | 2     |
-| Workload is spread over the whole team              | #merged commits - Link                                      | 0     |
+| Workload is spread over the whole team              | #merged commits - [Link](https://github.com/tanay105/Classroom-Bot/graphs/contributors)                                      | 0     |
 | but nevertheless, here is a track record that everyone is contributing a lot) | evidence in GH                                              | 0     |
 | Number of commits                                   | in GH                                                       | 2     |
 | Number of commits: by different people              | in GH                                                       | 2*    |
