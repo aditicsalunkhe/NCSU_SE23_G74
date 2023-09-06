@@ -37,7 +37,7 @@ Thoroughly review the projects done by previous students of CSC 510. Based on th
 
 ### Submission: 
 
-2. Link to the page that is going to be in the project 1 readme.
+All the final scores have been listed in a tabular form project wise - [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/blob/main/proj1/README.md#score-tables-for-allotted-projects)
 
 
 4. Timeline followed 
