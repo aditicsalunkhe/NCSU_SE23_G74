@@ -83,7 +83,6 @@
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 2     |
 | Does your website and documentation provide a clear, high-level overview of your software?  |  | Yes  |
-| 
 
 
 # Here is the link for the GitHub repository of the project -
