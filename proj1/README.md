@@ -83,6 +83,19 @@
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 2     |
 | Does your website and documentation provide a clear, high-level overview of your software?  |  | Yes  |
+| Does your website and documentation clearly describe the type of user who should use your software?  | | Yes  |
+| Do you publish case studies to show how your software has been used by yourself and others?  |  | Yes  |
+| Is the name of your project/software unique?  |  | Yes  |
+| Is your project/software name free from trademark violations?  |  | Yes  |
+| Is your software available as a package that can be deployed without building it?  |  | Yes  |
+| Is your software available for free?  |  | Yes  |
+|  Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?  |  | Yes  |
+| Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?  |  | Yes  |
+| Is your documentation clearly available on your website or within your software?  |  | Yes  |
+| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?  |  | Yes  |
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?  |  | Yes  |
+| Do you provide a comprehensive guide to all your software’s commands, functions and options?  |  | Yes  |
+|  Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?  |  | No  |
 
 
 # Here is the link for the GitHub repository of the project -
