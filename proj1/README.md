@@ -199,7 +199,7 @@
 ## Project 3
 #### Project title - Slash Phase-3 
 #### Project link - https://github.com/rohan22shah/slash-phase3/tree/main    
-#### Project description - lash is an android application, website and a command line tool that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.    
+#### Project description - Slash is an android application, website and a command line tool that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.    
 #### Reviewers: Purv
 #### Score: 76/90
 
