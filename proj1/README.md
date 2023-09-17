@@ -108,18 +108,14 @@
 | Is your software’s architecture and design modular?  |  | Yes  |
 | Does your software use an accepted coding standard or convention?  |  | Yes  |
 | Does your software allow data to be imported and exported using open data formats?
-*
 e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones  |  | No  |
 | "Does your software allow communications using open communications protocols?
-*
 e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"  |  | Yes  |
 | Is your software cross-platform compatible?
-*
 e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?  |  | Yes  |
 | Does your software adhere to appropriate accessibility conventions or standards?   |   | Yes  |
 | Does your documentation adhere to appropriate accessibility conventions or standards?  |  | Yes  |
-| Is your source code stored in a repository under revision control?
-*  |  | Yes  |
+| Is your source code stored in a repository under revision control? |  | Yes  |
 | Is each source code release a snapshot of the repository?  |  | No  |
 | Are releases tagged in the repository?  |  | Yes  |
 |  Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)  |  | Yes  |
