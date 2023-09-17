@@ -1,4 +1,4 @@
-# Score tables for allotted projects
+# Part 1 - Score tables for allotted projects
 ## Project 1 
 #### Project title - Schedule Bot    
 #### Project link -      
@@ -53,12 +53,12 @@
 | Notes                                               | Evidence                                                    | Score |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
 | Video                                               | 2min video of new functionality, showing a significant delta from prior. | 3     |
-| Workload is spread over the whole team              | #merged commits - [Link](https://github.com/tanay105/Classroom-Bot/graphs/contributors)                                      | 2     |
+| Workload is spread over the whole team              | #merged commits - [Link](https://github.com/deekay2310/calorieApp_server/graphs/contributors)                                      | 2     |
 | but nevertheless, here is a track record that everyone is contributing a lot) | evidence in GH                                              | 2     |
 | Number of commits                                   | in GH                                                       | 3    |
 | Number of commits: by different people              | in GH                                                       | 2    |
 | Issues reports: there are many                      | #closed/#total issues                                        | 2    |
-| Issues are being closed                             | evidence in GH - [Link]https://github.com/deekay2310/calorieApp_server/issues                                     | 3     |
+| Issues are being closed                             | evidence in GH - [Link](https://github.com/deekay2310/calorieApp_server/issues)                                     | 3     |
 | DOI badge: exists                                   | in GH                                                       | 3     |
 | Docs: doco generated, format not ugly               | in GH                                                       | 2     |
 | Docs: what: point descriptions of each class/function (in isolation) | Based on Comprehensiveness                                    | 3    |
@@ -82,3 +82,7 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory                        | 0    |
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 2     |
+
+
+# Here is the link for the GitHub repository of the project -
+[Link for the project' GitHub repository]()
