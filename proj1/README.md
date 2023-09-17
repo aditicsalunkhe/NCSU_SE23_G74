@@ -1,4 +1,4 @@
-# Part 1 - Score tables for allotted projects
+# Part 1 - Score tables for previous projects
 ## Project 1 
 #### Project title - Schedule Bot    
 #### Project link -      
@@ -44,7 +44,7 @@
 ## Project 2
 #### Project title - Calorie App Tracker    
 #### Project link - https://github.com/deekay2310/calorieApp_server      
-#### Project description -      
+#### Project description - Our project is to develop a comprehensive fitness application that enables users to effortlessly track their calorie consumption, monitor various workout plans, and share their progress with friends, creating a holistic fitness experience in one seamless platform. 
 #### Reviewers: Aditi      
 
 
@@ -82,6 +82,8 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory                        | 0    |
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 2     |
+| Does your website and documentation provide a clear, high-level overview of your software?  |  | Yes  |
+| 
 
 
 # Here is the link for the GitHub repository of the project -
