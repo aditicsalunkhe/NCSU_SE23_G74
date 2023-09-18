@@ -45,7 +45,7 @@
 #### Project title - Calorie App Tracker    
 #### Project link - https://github.com/deekay2310/calorieApp_server      
 #### Project description - Our project is to develop a comprehensive fitness application that enables users to effortlessly track their calorie consumption, monitor various workout plans, and share their progress with friends, creating a holistic fitness experience in one seamless platform. 
-#### Reviewers: Aditi      
+#### Score - 58      
 
 
 
