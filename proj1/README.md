@@ -448,6 +448,8 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                       |                                                                                                                    |No    |
 |Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                 |                                                                                                                    |No    |
 
+
+
 ### Project 5
 #### Project title - FeatureHunt 
 #### Project link - https://github.com/elric97/feature-hunt  
@@ -455,33 +457,39 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 #### Project evaluation summary: 1. It comforms to basic open source software engineering development standards and best practices, but there are still many places needed to be imporved, such as a quick-start guide to developer contributor, a more compresive class/code documentation, a elegate GIF instead of a video link as the promotion content and development roadmap 2. The application has the basic functions as a message sharing and discussion platform. However, there are no killer features which can capture users attention among all other similiar applications. If choosing this project as the base for future work, our group could identify one or two key features and design and implement them in a more deeper, solid and creative way
 #### Score: 56/90
 
-| **Notes** | **Rating** | **Evidence** | **Reason** | **Comments** |
-| --- | --- | --- | --- | --- |
-| Video | 2 | Phase3-Video | Have basic introduction to application functions and highlights. Have basic illustration to repo. Present in a smooth and clear way. But no shining point to show. | For our application, we should build some basic functions with a killer function which could blow user/evaluator away? I think it's better than building many mediocre functions. Workload is spread over the whole team (one team member is often X times more productive than the others...). |
-| Number of commits | 2 commits | Totally 190 commits in total | | |
-| Number of commits by different people | 3 commits | Four contributors | | |
-| Issues reports | 2 | Issues | 18 in total | What's the criterion for "many." Issues are being closed | 2 | Issues | 6 open and 12 closed, 66% closed rate | |
-| DOI badge | 3 | Github repo Homepage | About 15 badges | |
-| Docs generated, format not ugly | 2 | Doc/; Phase_3_Docs; README.md | All have basic information for the project, but some are short of information, such as project2's document | |
-| Docs: what: point descriptions of each class/function | 0 | None | Seems no doc files to do this work | |
-| Docs: how: for common use cases X,Y,Z mini-tutorials | 2 | Phase3Doc | Use images to show how to show features which is concise and expressive. Maybe we could learn from this instead of creating long tedious words. |
-| Docs: why: docs tell a story | 1 | Github Homepage | Though the developers are trying to sell their product loudly, the quality of these features are not that eye-catching | |
-| Docs: short video, animated, hosted on your repo | 2 | Github Homepage | Has both word link and image link to youtube intro video, but lacks gif format promotion content | |
-| Use of version control tools | 3 | Git or Github desktop | | |
-| Use of style checkers | 2 | Pylint and Codacy | | |
-| Use of code formatters | 2 | package.json, Prettier | | |
-| Use of syntax checkers | 2 | Flake is used as a syntax checker, config file | | |
-| Use of code coverage | 2 | Codacy, Coveralls | | |
-| Other automated analysis tools | 2 | Codacy, Snyk, Dependabot, CodeQL | | |
-| Test cases exist | 2 | Tests exist, they have added tests for all the pages and features | | |
-| Test cases are routinely executed | 1 | Pipeline | No evidence by the link they provide | |
-| The files CONTRIBUTING.md lists coding standards | 1 | CONTRIBUTING.md | Seems to be a collection of general tips for contributing, not the specific contents for this particular project | |
-| Issues are discussed before they are closed | 1 | Evidence 1, Evidence 2 | Issues were discussed before assigning as well as closing. The discussion for the issue is not that much helpful | |
-| Chat channel exists | 1 | None | No evidence for users, but may have for the developer team | |
-| Test cases: a large proportion of the issues related to handling failing cases | 1 | Tests | No direct evidence that those issues are about handling failing cases | |
-| Evidence that the whole team is using the same tools | 2 | None | It's highly likely that they do so | |
-| Evidence that the members of the team are working across multiple places in the code base | 2 | Contributor1, Contributor2, Contributor3, Contributor4 | | |
-| Short release cycles | 3 | Release cycles | | |
+| Notes                             | Rating | Evidence                   | Reason                                                                                           | Comments                                                                                   |
+|-----------------------------------|--------|----------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Video                             | 2      | Phase3-Video               | "1. Have basic introduction to application functions and highlights 2. Have basic illustration to repo 3. Present in a smooth and clear way 4. But no shinning point to show " | For our application, we should build some basic functions with a killer function which could blow user/evaluator away ? I think it`s better than build many mediocre functions |
+| Workload is spread over the team  | 2      | commits                    | Four contributors with 75/53/34/27 commits                                                     | but nevertheless, here is a track record that everyone is contributing a lot)             |
+| Number of commits                 | 2      | commits                    | Totally 190 commits in total                                                                    |                                                                                                |
+| Number of commits by different people | 3  | commits                    | Four contributors                                                                               |                                                                                                |
+| Issues reports: there are many     | 2      | Issues                     | 18 in total                                                                                     | What`s the criterion for "many"                                                            |
+| Issues are being closed            | 2      | Issues                     | 6 open and 12 closed, 66% closed rate                                                           |                                                                                                |
+| DOI badge: exists                 | 3      | Github repo Homepage        | about 15 badges                                                                                 |                                                                                                |
+| Docs: doco generated, format not ugly | 2   | Doc/; Phase_3_Docs; README.md | All have basic information for project, but some are in short of information, such as project2`s document |                                                                                                |
+| Docs: what: point descriptions of each class/function (in isolation) | 0 | None | Seems no doc files to do this work |                                                                                                |
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 2 | Phase3Doc | Use images to show how to show features which is concise and expressive Mayby we could learn from this instead of creating long tedious words | |
+| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 1 | Github Homepage | Though the developers are trying to sell their product loudly, the quality of these features are not that eye-catching | |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 2 | Github Homepage | Has both word link and image link to youtube intro video, but lacks gif format promotion content | |
+| Use of version control tools        | 3      | Git or Github desktop       |                                                                                                  |                                                                                                |
+| Use of style checkers               | 2      | Pylint and Codacy           |                                                                                                  |                                                                                                |
+| Use of code formatters.             | 2      | package.json, Prettier      |                                                                                                  |                                                                                                |
+| Use of syntax checkers.             | 2      | flake is used as syntax checker config file |                                                                                           |                                                                                                |
+| Use of code coverage                | 2      | Codacy  Coveralls           |                                                                                                  |                                                                                                |
+| Other automated analysis tools     | 2      | Codacy, Snyk, Dependabot, CodeQL |                                                                                           |                                                                                                |
+| Test cases exist                   | 2      | tests exist, they have added tests for all the pages and features |                                                                                   |                                                                                                |
+| Test cases are routinely executed  | 1      | Pipeline                   | No evidence by the link they provide                                                           |                                                                                                |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 1 | CONTRIBUTING.md | Seems to be a collection of general tips of contributing, not the specific contents for this particular project | |
+| Issues are discussed before they are closed | 1 | evidence 1 evidence 2 . Issues were discussed before assigning as well as closing | The disscussion for issue is not that much helpful | |
+| Chat channel: exists               | 1      | None                       | No evidence for users, but may have for the developer team                                       |                                                                                                |
+| Test cases: a large proportion of the issues related to handling failing cases. | 1 | Tests | No direct evidence that those issues are about handling failing cases | |
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 2 | None | It`s highly like that they do so | |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 2 | None | It`s highly like that they do so | |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 1 | None | | |
+| Evidence that the members of the team are working across multiple places in the code base | 2 | "Contributor1 Contributor2 Contributor3 Contributor4" | | |
+| Short release cycles               | 3      | release cycles              |                                                                                                  |                                                                                                |
+| Sum Score                          | 56     |                            |                                                                                                  |                                                                                                |
+|                                   |        |                            | Below are general SE best practice questionnaires                                                |                                                                                                |
 | Does your website and documentation provide a clear, high-level overview of your software? | 3 | | | |
 | Does your website and documentation clearly describe the type of user who should use your software? | 2 | | | |
 | Do you publish case studies to show how your software has been used by yourself and others? | 2 | | | |
@@ -501,8 +509,8 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 | Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? | 2 | | | |
 | Does your software describe how a user can get help with using your software? | 2 | | | |
 | Does your website and documentation describe what support, if any, you provide to users and developers? | 1 | | | |
-| Does your project have an email address or forum that is solely for supporting users? | 0 | | | |
-| Are emails to your support email address received by more than one person? | 0 | | | |
+| Does your project have an e-mail address or forum that is solely for supporting users? | 0 | | | |
+| Are e-mails to your support e-mail address received by more than one person? | 0 | | | |
 | Does your project have a ticketing system to manage bug reports and feature requests? | 1 | | | |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests? | 1 | | | |
 | Is your software’s architecture and design modular? | 2 | | | |
@@ -516,19 +524,19 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 | Is each source code release a snapshot of the repository? | 2 | | | |
 | Are releases tagged in the repository? | 2 | | | |
 | Is there a branch of the repository that is always stable? | 3 | | | |
-| Do you back up your repository? | Not for sure | | | |
-| Do you provide publicly available instructions for building your software from the source code? | 2 | | | |
+| Do you back-up your repository? | | Not for sure | | |
+| Do you provide publicly-available instructions for building your software from the source code? | 2 | | | |
 | Can you build, or package, your software using an automated tool? | 1 | | | |
-| Do you provide publicly available instructions for deploying your software? | 2 | | | |
+| Do you provide publicly-available instructions for deploying your software? | 2 | | | |
 | Does your documentation list all third-party dependencies? | 1 | | | |
 | Does your documentation list the version number for all third-party dependencies? | 2 | | | |
-| Does your software list the web address, and licenses for all third-party dependencies and say whether the dependencies are mandatory or optional? | 1 | | | |
+| Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional? | 1 | | | |
 | Can you download dependencies using a dependency management tool or package manager? | 2 | | | |
 | Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful? | 1 | | | |
 | Do you have an automated test suite for your software? | 2 | | | |
-| Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code? | Not for sure | | | |
+| Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code? | | Not for sure | | |
 | Do you use continuous integration, automatically running tests whenever changes are made to your source code? | 2 | | | |
-| Are your test results publicly visible? | Not for sure | | | |
+| Are your test results publicly visible? | | Not for sure | | |
 | Are all manually-run tests documented | 1 | | | |
 | Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? | 0 | | | |
 | Does your website state how many projects and users are associated with your project? | 0 | | | |
@@ -541,7 +549,7 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 | Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? | 1 | | | |
 | Do you have a contributions policy? | 2 | | | |
 | Is your contributions' policy publicly available? | 2 | | | |
-| Do contributors keep the copyright/IP of their contributions? | Not for sure | | | |
+| Do contributors keep the copyright/IP of their contributions? | | Not for sure | | |
 | Does your website and documentation clearly state the copyright owners of your software and documentation? | 2 | | | |
 | Does each of your source code files include a copyright statement? | 1 | | | |
 | Does your website and documentation clearly state the license of your software? | 1 | | | |
@@ -549,7 +557,7 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 | Is your software released under an OSI-approved open-source license? | 3 | | | |
 | Does each of your source code files include a license header? | 3 | | | |
 | Do you have a recommended citation for your software? | 2 | | | |
-| Does your website or documentation include a project roadmap? | 2 | | | |
+| Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? | 2 | | | |
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | | No need | | |
 | Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | | | |
 
