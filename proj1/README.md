@@ -1,4 +1,4 @@
-# Part 1 - Score tables for allotted projects
+# Part 1 - Score tables for previous projects
 ## Project 1 
 #### Project title - Schedule Bot    
 #### Project link -      
@@ -44,7 +44,7 @@
 ## Project 2
 #### Project title - Calorie App Tracker    
 #### Project link - https://github.com/deekay2310/calorieApp_server      
-#### Project description -      
+#### Project description - Our project is to develop a comprehensive fitness application that enables users to effortlessly track their calorie consumption, monitor various workout plans, and share their progress with friends, creating a holistic fitness experience in one seamless platform. 
 #### Reviewers: Aditi      
 
 
@@ -82,6 +82,50 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory                        | 0    |
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 2     |
+| Does your website and documentation provide a clear, high-level overview of your software?  |  | Yes  |
+| Does your website and documentation clearly describe the type of user who should use your software?  | | Yes  |
+| Do you publish case studies to show how your software has been used by yourself and others?  |  | Yes  |
+| Is the name of your project/software unique?  |  | Yes  |
+| Is your project/software name free from trademark violations?  |  | Yes  |
+| Is your software available as a package that can be deployed without building it?  |  | Yes  |
+| Is your software available for free?  |  | Yes  |
+|  Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?  |  | Yes  |
+| Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?  |  | Yes  |
+| Is your documentation clearly available on your website or within your software?  |  | Yes  |
+| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?  |  | Yes  |
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?  |  | Yes  |
+| Do you provide a comprehensive guide to all your software’s commands, functions and options?  |  | Yes  |
+| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?  |  | No  |
+| If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?  |  | Yes  |
+| Do you store your documentation under revision control with your source code?  |  | Yes  |
+| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?  |  | No  |
+| Does your software describe how a user can get help with using your software?  |  | Yes  |
+| Does your website and documentation describe what support, if any, you provide to users and developers?  |  | Yes  |
+| Does your project have an e-mail address or forum that is solely for supporting users?  |  | Yes  |
+| Are e-mails to your support e-mail address received by more than one person?  |  | No  |
+| Does your project have a ticketing system to manage bug reports and feature requests?  |  | No  |
+| Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?  |  | No  |
+| Is your software’s architecture and design modular?  |  | Yes  |
+| Does your software use an accepted coding standard or convention?  |  | Yes  |
+| Does your software allow data to be imported and exported using open data formats?
+e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones  |  | No  |
+| "Does your software allow communications using open communications protocols?
+e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"  |  | Yes  |
+| Is your software cross-platform compatible?
+e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?  |  | Yes  |
+| Does your software adhere to appropriate accessibility conventions or standards?   |   | Yes  |
+| Does your documentation adhere to appropriate accessibility conventions or standards?  |  | Yes  |
+| Is your source code stored in a repository under revision control? |  | Yes  |
+| Is each source code release a snapshot of the repository?  |  | No  |
+| Are releases tagged in the repository?  |  | Yes  |
+|  Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)  |  | Yes  |
+| Do you back-up your repository?  |  | No  |
+| Do you provide publicly-available instructions for building your software from the source code?  |  | Yes  |
+| Can you build, or package, your software using an automated tool?  |  | No  |
+| Do you provide publicly-available instructions for deploying your software?  |  | Yes  |
+| Do you provide publicly-available instructions for deploying your software?  |  | Yes  |
+| Does your documentation list the version number for all third-party dependencies?  |  | Yes  |
+| Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?  |  | No  |
 
 ## Project 3
 #### Project title - Slash   
