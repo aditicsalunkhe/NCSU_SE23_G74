@@ -54,11 +54,11 @@
 | If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? | Currently there are basic instructions (although not compatible) to cover both docker installation and manual installation, however there is still no documentation on what could possibly go wrong and how to fix it | Yes |
 | Do you provide a comprehensive guide to all your software’s commands, functions, and options? | [Link](https://github.com/tanay105/Classroom-Bot/blob/master/backend-service/bot_proxy_server/docs/cmdexmple.md) | Yes|
 | Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? | | No |
-| If your software can be used as a library, package, or service by other software, do you provide comprehensive API documentation? | [https://prithvipatl.github.io/html/api.html#module-api.models](https://prithvipatl.github.io/html/api.html#module-api.models) | Yes |
+| If your software can be used as a library, package, or service by other software, do you provide comprehensive API documentation? | [API Doc](https://prithvipatl.github.io/html/api.html#module-api.models) | Yes |
 | Do you store your documentation under revision control with your source code? | Github | Yes |
 | Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? | | No |
 | Does your software describe how a user can get help with using your software? | [Video Pitch](https://www.youtube.com/watch?v=NaiekJTGSXg) | Yes |
-| Does your website and documentation describe what support, if any, you provide to users and developers? | [https://github.com/tanay105/Classroom-Bot/blob/master/CONTRIBUTING.md](https://github.com/tanay105/Classroom-Bot/blob/master/CONTRIBUTING.md) | Yes |
+| Does your website and documentation describe what support, if any, you provide to users and developers? | [Contributing.md](https://github.com/tanay105/Classroom-Bot/blob/master/CONTRIBUTING.md) | Yes |
 | Does your project have an e-mail address or forum that is solely for supporting users? | | No |
 | Are e-mails to your support e-mail address received by more than one person? | | No |
 | Does your project have a ticketing system to manage bug reports and feature requests? | [Issues](https://github.com/tanay105/Classroom-Bot/issues) | Yes |
