@@ -388,4 +388,4 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 #### Here is the link for 2-min video demonstration of the application -
 [Link for video demonstration](https://drive.google.com/file/d/1WfJphCxFzOR4AOcscSyiTme6SFhgf3zV/view?usp=drive_link)
 
-## Part 3 - Essay
+## Part 3 - Essay (750 words)
