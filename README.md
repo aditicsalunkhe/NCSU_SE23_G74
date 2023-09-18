@@ -5,7 +5,7 @@
 **Team members & Github handles** :   
 1. Aditi 
 2. Ishan Mistry - mistryishan25
-3. Lixing - 
+3. Lixing - WangWangIsDog
 4. Purv Patel - 
 
 
@@ -32,7 +32,7 @@ Thoroughly review the projects done by previous students of CSC 510. Based on th
 | e       | [calorieApp_server](https://github.com/deekay2310/calorieApp_server) | Aditi      | Ishan      |                                                          |
 | f       | [slash](https://github.com/NCSU-Group7-SE2021/slash/)               | Purv       | Lixing     |                                                          |
 | l       | [slash-phase3](https://github.com/rohan22shah/slash-phase3)        | Everyone?  | Everyone?  |                                                          |
-| B       | [feature-hunt](https://github.com/elric97/feature-hunt)            | Lixing     | Aditi      |                                                          |
+| B       | [feature-hunt](https://github.com/elric97/feature-hunt)            | Lixing     | Aditi      |   a design collaboration platform for product features                                                      |
 | U       | [Classroom-Bot](https://github.com/tanay105/Classroom-Bot)        | Ishan      | Purv       | A classroom manager for students and teachers. It gives out reminders, fetches links for you. |
 
 ### Submission: 
