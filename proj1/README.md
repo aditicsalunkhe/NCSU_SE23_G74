@@ -4,41 +4,51 @@
 #### Project link -      
 #### Project description -           
 
+| Notes | Evidence | Score(44/90) | Comments |
+|-------|----------|--------------|----------|
+| Video | Video    | 3            | Explains well the idea behind the project with a great example! Speaks to the inconveniences of the interactions between 2 of 3 entities. Not 3 because the video is the only source that conveys the information, there are no examples to go along with it. |
+| Workload is spread over the whole team (one team member is often X times more productive than the others... | #merged commits - Link | 1 | "[25.75%(Group 1), 20.5%(Group 1) 19%(Group 1), 13%(Current), 7%(Current),7%(Current),1.25%(Current) ]" but nevertheless, here is a track record that everyone is contributing a lot) |
+| Number of commits | Contributors | 1 | This branch is only 88 comments ahead and out of these only 26 are done by the team. |
+| Number of commits: by different people | Contributors | 2 | 88 commits |
+| Issues reports: there are many | Issues | 2 | 8 open and 27 closed - 77% of the issues are closed |
+| Issues are being closed | evidence in GH - Link | 2 | All of them are issues closed in a short span! |
+| DOI badge: exists | Badge | 2 |  |
+| Docs: doco generated, format not ugly | Link | 2 |  |
+| Docs: what: point descriptions of each class/function (in isolation) | Automated docs | 2 |  |
+| Docs: how: for common use cases X, Y, Z mini-tutorials showing worked examples on how to do X, Y, Z | Video | 1 |  |
+| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | Video | 2 |  |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | Video | 2 |  |
+| Use of version control tools | Bling | 2 |  |
+| Use of style checkers | pycodestyle | 2 |  |
+| Use of code formatters. | Pylint - Requirements.txt | 1 |  |
+| Use of syntax checkers. | pycodestyle | 2 |  |
+| Use of code coverage | https://github.com/tanay105/Classroom-Bot | 1 |  |
+| Other automated analysis tools | Not found | 0 |  |
+| Test cases exist | Not found | 1 | On manual examination I did not find any test code, just the "plans" for the user end testing (no survey data found) and performance testing (no proof of its execution) |
+| Test cases are routinely executed |  | 1 | Not thoroughly test code (just one test branch) + codcov score is just 50% |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | Looked for 1. The status revisited? 2. Fine instructions for branch development 3. Clear mentions of the Rules and regulations | 1 | Good to have ideas for the first few contributions but it is very general in nature. No status checks. No branches specified for development of specific contributions. I had no idea of where to start if I need to add something to the "Slack commands" or the "UI". No warning or cautionary instructions for not screwing up the entire thing |
+| Issues are discussed before they are closed | https://github.com/tanay105/Classroom-Bot/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc | 0 | Checked the issues with the most comments(4, 2, 2 ,1...) is basically the issuer documenting - no hints of discussions leading to the solution. |
+| Chat channel: exists | Link or screenshots |  |  |
+| Test cases: a large proportion of the issues related to handling failing cases. | Bling | 1 | 50% of the code is covered via testing. 14.5% of the issues were bug fixes |
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files |  | 0 |  |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | #Files changed by comparing the branch with the main | 1 |  |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory | 1 |  |
+| Evidence that the members of the team are working across multiple places in the code base |  | 1 |  |
+| Short release cycles | Many commits in short intervals | 0 |  |
+| Does your website and documentation provide a clear, high-level overview of your software? | https://github.com/tanay105/Classroom-Bot/blob/master/docs/how.md | 3 |  |
+| Does your website and documentation clearly describe the type of user who should use your software? | https://github.com/tanay105/Classroom-Bot/blob/master/docs/whatallispossible.md | 3 |  |
+| Do you publish case studies to show how your software has been used by yourself and others? |  | No |  |
+| Is the name of your project/software unique? | Generic enough to be used by others | No |  |
+| Is your project/software name free from trademark violations? | No TESS record found | Yes |  |
+| Is your software available as a package that can be deployed without building it? | The bot servers have to be built and run using docker for usage - Link | No |  |
+| Is your software available for free? | MIT License - Link | Yes |  |
+| Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | https://github.com/tanay105/Classroom-Bot | Yes |  |
+| Is your software hosted in an established, third-party repository like GitHub (https://github.com), BitBucket (https://bitbucket.org), LaunchPad (https://launchpad.net) or SourceForge (https://sourceforge.net)? | https://github.com/tanay105/Classroom-Bot | Yes |  |
+| Is your documentation clearly available on your website or within your software? | https://github.com/tanay105/Classroom-Bot/blob/master/README.md | Yes |  |
+| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use? | It does show what the software is useful for but does not give specific examples, just lists the commands | No |  |
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? | Currently
 
 
-
-| Notes                                               | Evidence                                                    | Score |
-| --------------------------------------------------- | ----------------------------------------------------------- | ----- |
-| Video                                               | 2min video of new functionality, showing a significant delta from prior. | 2     |
-| Workload is spread over the whole team              | #merged commits - [Link](https://github.com/tanay105/Classroom-Bot/graphs/contributors)                                      | 0     |
-| but nevertheless, here is a track record that everyone is contributing a lot) | evidence in GH                                              | 0     |
-| Number of commits                                   | in GH                                                       | 2     |
-| Number of commits: by different people              | in GH                                                       | 2*    |
-| Issues reports: there are many                      | #closed/#total issues                                        | 2*    |
-| Issues are being closed                             | evidence in GH - [Link](https://github.com/tanay105/Classroom-Bot/issues?page=3&q=is%3Aclosed+sort%3Arelevance-desc)                                       | 1     |
-| DOI badge: exists                                   | in GH                                                       | 2     |
-| Docs: doco generated, format not ugly               | in GH                                                       | 1     |
-| Docs: what: point descriptions of each class/function (in isolation) | Based on Comprehensiveness                                    | 1*    |
-| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | doc page entries                                              | 0     |
-| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | go through docs                                               | 0     |
-| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | go through docs                                               | 0     |
-| Use of version control tools                        | Average the rubrics for the others[]                          | 0     |
-| Use of style checkers                               | config files in GH showing your config                        | 0     |
-| Use of code formatters.                             | config files in GH showing your this formatter's config       | 0     |
-| Use of syntax checkers.                             | config files in GH showing this checker's config              | 0     |
-| Use of code coverage                                | config files in GH                                           | 1     |
-| Other automated analysis tools                      | config files in GH                                           | 0     |
-| Test cases exist                                    | dozens of tests and those test cases are more than 30% of the code base | 0     |
-| Test cases are routinely executed                   | E.g. travis-com.com or github actions or something           | 1     |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | Is the status revisted? Does it include instructions for branch development. Any Clear mentions of the Rules and regulations" | 1     |
-| Issues are discussed before they are closed         | even if you discuss in slack, need a summary statement here  | 0     |
-| Chat channel: exists                               | Link or screenshots                                          |       |
-| Test cases: a large proportion of the issues related to handling failing cases. | If a test case fails, open an issue and fix it                | 1     |
-| Evidence that the whole team is using the same tools: everyone can get to all tools and files | How tough is it to find the people in the repo?               | 0     |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | #Files changed by comparing the branch with the main          | 1     |
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory                        | 0*    |
-| Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
-| Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 1     |
 
 ### Project 2
 #### Project title - Calorie App Tracker    
