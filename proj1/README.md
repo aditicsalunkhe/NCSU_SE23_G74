@@ -1,52 +1,44 @@
 ## Part 1 - Score tables for previous projects
 ### Project 1 
-#### Project title - Schedule Bot    
-#### Project link -      
-#### Project description -           
+#### Project title - Classroom-Bot    
+#### Project link - https://github.com/tanay105/Classroom-Bot
+#### Project description - A SlackBot to take care of your classroom resources!!
 
 | Notes | Evidence | Score(44/90) | Comments |
 |-------|----------|--------------|----------|
-| Video | Video    | 3            | Explains well the idea behind the project with a great example! Speaks to the inconveniences of the interactions between 2 of 3 entities. Not 3 because the video is the only source that conveys the information, there are no examples to go along with it. |
-| Workload is spread over the whole team (one team member is often X times more productive than the others... | #merged commits - Link | 1 | "[25.75%(Group 1), 20.5%(Group 1) 19%(Group 1), 13%(Current), 7%(Current),7%(Current),1.25%(Current) ]" but nevertheless, here is a track record that everyone is contributing a lot) |
-| Number of commits | Contributors | 1 | This branch is only 88 comments ahead and out of these only 26 are done by the team. |
-| Number of commits: by different people | Contributors | 2 | 88 commits |
-| Issues reports: there are many | Issues | 2 | 8 open and 27 closed - 77% of the issues are closed |
-| Issues are being closed | evidence in GH - Link | 2 | All of them are issues closed in a short span! |
-| DOI badge: exists | Badge | 2 |  |
-| Docs: doco generated, format not ugly | Link | 2 |  |
-| Docs: what: point descriptions of each class/function (in isolation) | Automated docs | 2 |  |
-| Docs: how: for common use cases X, Y, Z mini-tutorials showing worked examples on how to do X, Y, Z | Video | 1 |  |
-| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | Video | 2 |  |
-| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | Video | 2 |  |
-| Use of version control tools | Bling | 2 |  |
-| Use of style checkers | pycodestyle | 2 |  |
-| Use of code formatters. | Pylint - Requirements.txt | 1 |  |
-| Use of syntax checkers. | pycodestyle | 2 |  |
-| Use of code coverage | https://github.com/tanay105/Classroom-Bot | 1 |  |
+| Video | [YouTube Video](https://www.youtube.com/watch?v=NaiekJTGSXg) | 3 | Explains well the idea behind the project with a great example! Speaks to the inconveniences of the interactions between 2 of 3 entities. Not 3 because the video is the only source that conveys the information, there are no examples to go along with it. |
+| Workload is spread over the whole team (one team member is often X times more productive than the others...) | [Merged Commits](https://github.com/tanay105/Classroom-Bot/graphs/contributors) | 1 | "[25.75%(Group 1), 20.5%(Group 1), 19%(Group 1), 13%(Current), 7%(Current), 7%(Current), 1.25%(Current)]" but nevertheless, here is a track record that everyone is contributing a lot) |
+| Number of commits | [Commits](https://github.com/tanay105/Classroom-Bot/graphs/contributors) | 2 | 88 commits |
+| Number of commits: by different people | [Commits](https://github.com/tanay105/Classroom-Bot/graphs/contributors) | 2 |  |
+| Issues reports: there are many | [Issues](https://github.com/tanay105/Classroom-Bot/issues) | 2 | 8 open and 27 closed - 77% of the issues are closed |
+| Issues are being closed | [Closed Issues](https://github.com/tanay105/Classroom-Bot/issues?page=3&q=is%3Aclosed+sort%3Arelevance-desc) | 2 | All of them are issues closed in a short span! |
+| DOI badge: exists | [GitHub Repo](https://github.com/tanay105/Classroom-Bot) | 2 |  |
+| Docs: doco generated, format not ugly | [API Documentation](https://prithvipatl.github.io/html/api.html#module-api.models) | 2 |  |
+| Docs: what: point descriptions of each class/function (in isolation) | [Documentation](https://tanay105.github.io/html/) | 2 |  |
+| Docs: how: for common use cases X, Y, Z mini-tutorials showing worked examples on how to do X, Y, Z | [YouTube Video](https://www.youtube.com/watch?v=NaiekJTGSXg) | 1 |  |
+| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | [YouTube Video](https://www.youtube.com/watch?v=NaiekJTGSXg) | 2 |  |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | [YouTube Video](https://www.youtube.com/watch?v=NaiekJTGSXg) | 2 |  |
+| Use of version control tools | [Bling](Bling) | 2 |  |
+| Use of style checkers | [pycodestyle](pycodestyle) | 2 |  |
+| Use of code formatters. | [Pylint - Requirements.txt](https://github.com/tanay105/Classroom-Bot/blob/9c93d74acae6f62b66e634fed4a02627ba1d1b3c/backend-service/bot_server/requirements.txt#L14) | 1 |  |
+| Use of syntax checkers. | [pycodestyle](pycodestyle) | 2 |  |
+| Use of code coverage | [GitHub Repo](https://github.com/tanay105/Classroom-Bot) | 1 |  |
 | Other automated analysis tools | Not found | 0 |  |
-| Test cases exist | Not found | 1 | On manual examination I did not find any test code, just the "plans" for the user end testing (no survey data found) and performance testing (no proof of its execution) |
-| Test cases are routinely executed |  | 1 | Not thoroughly test code (just one test branch) + codcov score is just 50% |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | Looked for 1. The status revisited? 2. Fine instructions for branch development 3. Clear mentions of the Rules and regulations | 1 | Good to have ideas for the first few contributions but it is very general in nature. No status checks. No branches specified for development of specific contributions. I had no idea of where to start if I need to add something to the "Slack commands" or the "UI". No warning or cautionary instructions for not screwing up the entire thing |
-| Issues are discussed before they are closed | https://github.com/tanay105/Classroom-Bot/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc | 0 | Checked the issues with the most comments(4, 2, 2 ,1...) is basically the issuer documenting - no hints of discussions leading to the solution. |
+| Test cases exist | Not found | 1 | On manual examination, I did not find any test code, just the "plans" for the user-end testing (no survey data found) and performance testing (no proof of its execution) |
+| Test cases are routinely executed |  | 1 | Not thoroughly tested code (just one test branch) + codecov score is just 50% |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | [Contributing Guidelines](https://github.com/tanay105/Classroom-Bot/blob/master/CONTRIBUTING.md) | 1 | Good to have ideas for the first few contributions but it is very general in nature. No status checks. No branches specified for the development of specific contributions. I had no idea of where to start if I need to add something to the "Slack commands" or the "UI". No warning or cautionary instructions for not screwing up the entire thing |
+| Issues are discussed before they are closed | [Discussion on Issues](https://github.com/tanay105/Classroom-Bot/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc) | 0 | Checked the issues with the most comments(4, 2, 2 ,1...) is basically the issuer documenting - no hints of discussions leading to the solution. |
 | Chat channel: exists | Link or screenshots |  |  |
-| Test cases: a large proportion of the issues related to handling failing cases. | Bling | 1 | 50% of the code is covered via testing. 14.5% of the issues were bug fixes |
+| Test cases: a large proportion of the issues related to handling failing cases. | [Bling](Bling) | 1 | 50% of the code is covered via testing. 14.5% of the issues were bug fixes |
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files |  | 0 |  |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | #Files changed by comparing the branch with the main | 1 |  |
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | Different commits in Test Subdirectory | 1 |  |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | [Files changed by comparing the branch with the main](#files-changed-by-comparing-the-branch-with-the-main) | 1 |  |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | [Different commits in Test Subdirectory](#different-commits-in-test-subdirectory) | 1 |  |
 | Evidence that the members of the team are working across multiple places in the code base |  | 1 |  |
 | Short release cycles | Many commits in short intervals | 0 |  |
-| Does your website and documentation provide a clear, high-level overview of your software? | https://github.com/tanay105/Classroom-Bot/blob/master/docs/how.md | 3 |  |
-| Does your website and documentation clearly describe the type of user who should use your software? | https://github.com/tanay105/Classroom-Bot/blob/master/docs/whatallispossible.md | 3 |  |
-| Do you publish case studies to show how your software has been used by yourself and others? |  | No |  |
-| Is the name of your project/software unique? | Generic enough to be used by others | No |  |
-| Is your project/software name free from trademark violations? | No TESS record found | Yes |  |
-| Is your software available as a package that can be deployed without building it? | The bot servers have to be built and run using docker for usage - Link | No |  |
-| Is your software available for free? | MIT License - Link | Yes |  |
-| Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | https://github.com/tanay105/Classroom-Bot | Yes |  |
-| Is your software hosted in an established, third-party repository like GitHub (https://github.com), BitBucket (https://bitbucket.org), LaunchPad (https://launchpad.net) or SourceForge (https://sourceforge.net)? | https://github.com/tanay105/Classroom-Bot | Yes |  |
-| Is your documentation clearly available on your website or within your software? | https://github.com/tanay105/Classroom-Bot/blob/master/README.md | Yes |  |
-| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use? | It does show what the software is useful for but does not give specific examples, just lists the commands | No |  |
-| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? | Currently
+| Does your website and documentation provide a clear, high-level overview of your software? | [Project Overview](https://github.com/tanay105/Classroom-Bot/blob/master/docs/how.md) | 3 |  |
+| Does your website and documentation clearly describe the type of user who should use your software? | [User Descriptions](https://github.com/tanay105/Classroom-Bot/blob/master/docs/whatallispossible.md) | 3 |  |
+| Do you publish case studies to show how your software has been used by yourself and others? |
+           
 
 
 
