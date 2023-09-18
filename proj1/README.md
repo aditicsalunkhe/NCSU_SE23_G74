@@ -1,9 +1,8 @@
-# Part 1 - Score tables for previous projects
-## Project 1 
+## Part 1 - Score tables for previous projects
+### Project 1 
 #### Project title - Schedule Bot    
 #### Project link -      
-#### Project description -      
-#### Reviewers: Ishan      
+#### Project description -           
 
 
 
@@ -41,11 +40,11 @@
 | Evidence that the members of the team are working across multiple places in the code base |                                                           | 1     |
 | Short release cycles                                | (hard to see in short projects) project members are committing often enough so that everyone can get your work | 1     |
 
-## Project 2
+### Project 2
 #### Project title - Calorie App Tracker    
 #### Project link - https://github.com/deekay2310/calorieApp_server      
 #### Project description - Our project is to develop a comprehensive fitness application that enables users to effortlessly track their calorie consumption, monitor various workout plans, and share their progress with friends, creating a holistic fitness experience in one seamless platform. 
-#### Score - 58      
+#### Score - 58/90      
 
 
 
@@ -157,11 +156,10 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 |Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                 |                                                                                                                    |No   |
 
 
-## Project 3
+### Project 3
 #### Project title - Slash   
 #### Project link - https://github.com/NCSU-Group7-SE2021/slash/     
 #### Project description - Slash is a command line tool that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.      
-#### Reviewers: Purv
 #### Score: 60/90
 
 
@@ -270,11 +268,10 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                       |                                                                                                                    |No   |
 |Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                 |                                                                                                                    |No   |
 
-## Project 4
+### Project 4
 #### Project title - Slash Phase-3 
 #### Project link - https://github.com/rohan22shah/slash-phase3/tree/main    
 #### Project description - Slash is an android application, website and a command line tool that scrapes the most popular e-commerce websites to get the best deals on the searched items across these websites.    
-#### Reviewers: Purv
 #### Score: 76/90
 
 
@@ -384,6 +381,11 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 |Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                 |                                                                                                                    |No    |
 
 
+## Part 2 - Demonstration
+#### Here is the link for the GitHub repository of the project -
+[Link for the project's GitHub repository](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server)
 
-# Here is the link for the GitHub repository of the project -
-[Link for the project' GitHub repository]()
+#### Here is the link for 2-min video demonstration of the application -
+[Link for video demonstration](https://drive.google.com/file/d/1WfJphCxFzOR4AOcscSyiTme6SFhgf3zV/view?usp=drive_link)
+
+## Part 3 - Essay
