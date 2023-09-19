@@ -12,8 +12,6 @@
 
 # Project 1 
 
-
-## Task 1 - Grading other projects 
 ### Task
 Thoroughly review the projects done by previous students of CSC 510. Based on the rubrics for examining the project 2, grade these allotted projects from a score of 0(None) to 3(A lot) 
 
