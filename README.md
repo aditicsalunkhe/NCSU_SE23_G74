@@ -3,10 +3,10 @@
 **Professor** : Timothy Menzies   
 **Term** :  Fall'23  
 **Team members & Github handles** :   
-1. Aditi 
+1. Aditi- aditisalunkhe
 2. Ishan Mistry - mistryishan25
 3. Lixing - WangWangIsDog
-4. Purv Patel - 
+4. Purv Patel - purv2100
 
 
 
@@ -31,29 +31,13 @@ Thoroughly review the projects done by previous students of CSC 510. Based on th
 | ------- | ------------------------------------------------ | ---------- | ---------- | -------------------------------------------------------- |
 | e       | [calorieApp_server](https://github.com/deekay2310/calorieApp_server) | Aditi      | Ishan      |                                                          |
 | f       | [slash](https://github.com/NCSU-Group7-SE2021/slash/)               | Purv       | Lixing     |                                                          |
-| l       | [slash-phase3](https://github.com/rohan22shah/slash-phase3)        | Everyone?  | Everyone?  |                                                          |
+| l       | [slash-phase3](https://github.com/rohan22shah/slash-phase3)        | Everyone  | Everyone  |                                                          |
 | B       | [feature-hunt](https://github.com/elric97/feature-hunt)            | Lixing     | Aditi      |   a design collaboration platform for product features                                                      |
 | U       | [Classroom-Bot](https://github.com/tanay105/Classroom-Bot)        | Ishan      | Purv       | A classroom manager for students and teachers. It gives out reminders, fetches links for you. |
 
 ### Submission: 
 
 All the final scores have been listed in a tabular form project wise - [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/blob/main/proj1/README.md#score-tables-for-allotted-projects)
-
-
-4. Timeline followed 
-5. Meetings? MOM 
-
-## Task 2 : Getting one to work
-
-### Approach
-### Work allocation
-### Submission
-
-## Task 3 : Review of the process
-
-### Approach
-### Work allocation
-### Submission
 
 # Project 2
 TBD
