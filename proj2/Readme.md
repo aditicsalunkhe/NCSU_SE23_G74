@@ -1,4 +1,4 @@
-#Projecct 2
+# Project 2
 ## Link to our work 
 You can find the link to our enhanced work as a part of the project2 submission - [Here](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/tree/main)
 
