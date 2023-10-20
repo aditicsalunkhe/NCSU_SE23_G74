@@ -70,14 +70,14 @@ Yes or No
 | Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?  |  | Yes  |
 | Does your software describe how a user can get help with using your software?  |  | Yes  |
 | Does your website and documentation describe what support, if any, you provide to users and developers?  |  | Yes  |
-| Does your project have an e-mail address or forum that is solely for supporting users?  |  | -  |
-| Are e-mails to your support e-mail address received by more than one person?  |  | -  |
+| Does your project have an e-mail address or forum that is solely for supporting users?  |  | Yes  |
+| Are e-mails to your support e-mail address received by more than one person?  |  | Yes  |
 | Does your project have a ticketing system to manage bug reports and feature requests?  |  | Yes  |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?  |  | Yes  |
 | Is your software’s architecture and design modular?  |  | Yes  |
 | Does your software use an accepted coding standard or convention?  |  | Yes  |
 | Does your software allow data to be imported and exported using open data formats?
-e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones  |  | No  |
+e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain-specific ones  |  | No  |
 | "Does your software allow communications using open communications protocols?
 e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"  |  | Yes  |
 | Is your software cross-platform compatible?
@@ -93,7 +93,7 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 | Can you build, or package, your software using an automated tool?  |  | No  |
 | Do you provide publicly-available instructions for deploying your software?  |  | Yes  |
 | Does your documentation list the version number for all third-party dependencies?  |  | Yes  |
-| Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?  |  | -  |
+| Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?  |  | Yes |
 |Can you download dependencies using a dependency management tool or package manager?                                                                                                                           |                                                                                                                    |Yes  |
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?                                                                  |                                                                                                                    |Yes  |
 |Do you have an automated test suite for your software?                                                                                                                                                         |                                                                                                                    |Yes  |
@@ -102,7 +102,7 @@ e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can b
 |Are your test results publicly visible?                                                                                                                                                                        |                                                                                                                    |Yes  |
 |Are all manually-run tests documented                                                                                                                                                                          |                                                                                                                    |No   |
 | Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software?                                           |                                                                                                                    |No   |
-|Does your website state how many projects and users are associated with your project?                                                                                                                          |                                                                                                                    |-  |
+|Does your website state how many projects and users are associated with your project?                                                                                                                          |                                                                                                                    |Yes  |
 |Do you provide success stories on your website?                                                                                                                                                                |                                                                                                                    |No   |
 |Do you list your important partners and collaborators on your website?                                                                                                                                        |                                                                                                                    |Yes  |
 |Do you list your project's publications on your website or link to a resource where these are available?                                                                                                       |                                                                                                                    |No  |
