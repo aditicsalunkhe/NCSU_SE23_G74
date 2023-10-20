@@ -3,12 +3,12 @@
 You can find the link to our enhanced work as a part of the project2 submission - [Here](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/tree/main)
 
 ## Video pitch 
-Link to the video explaining the enhancements and bug fixes - [Video] 
+Link to the video explaining the enhancements and bug fixes - [Video](https://drive.google.com/file/d/1sk51oAx38qlPdrY_mUgI5oGwj5KtcTUc/view?usp=share_link) 
 
 ## Self Assessment Rubrics
 | Notes                                               | Evidence                                                    | Score(72/90) |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
-| Video                                               | [Video]() | 3     |
+| Video                                               | [Video](https://drive.google.com/file/d/1sk51oAx38qlPdrY_mUgI5oGwj5KtcTUc/view?usp=share_link) | 3     |
 | Workload is spread over the whole team              | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/graphs/contributors)                                      | 3     |
 | but nevertheless, here is a track record that everyone is contributing a lot) | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/graphs/contributors)                                              | 2     |
 | Number of commits                                   | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/graphs/commit-activity)                                                     | 2    |
@@ -20,7 +20,7 @@ Link to the video explaining the enhancements and bug fixes - [Video]
 | Docs: what: point descriptions of each class/function (in isolation) | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/blob/main/function_description.md)                                   | 3    |
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server#readme)                                              | 2     |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server#readme)                                | 2     |
-| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | [Video]()                                               | 2     |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | [Video](https://drive.google.com/file/d/1sk51oAx38qlPdrY_mUgI5oGwj5KtcTUc/view?usp=share_link)                                               | 2     |
 | Use of version control tools                        | Github                         | 3     |
 | Use of style checkers                               | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/blob/main/.github/workflows/style_checker.yml)                        | 3     |
 | Use of code formatters.                             | Autopep8       | 2     |
