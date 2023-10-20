@@ -6,7 +6,7 @@ You can find the link to our enhanced work as a part of the project2 submission 
 Link to the video explaining the enhancements and bug fixes - [Video] 
 
 ## Self Assessment Rubrics
-| Notes                                               | Evidence                                                    | Score(X/Total) |
+| Notes                                               | Evidence                                                    | Score(72/90) |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
 | Video                                               | [Video]() | 3     |
 | Workload is spread over the whole team              | [Link](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server/graphs/contributors)                                      | 3     |
