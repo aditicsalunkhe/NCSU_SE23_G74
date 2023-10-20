@@ -6,19 +6,6 @@ You can find the link to our enhanced work as a part of the project2 submission 
 Link to the video explaining the enhancements and bug fixes - [Video] 
 
 ## Self Assessment Rubrics
-
-1. Are we adding mini tutorials?
-2. Add the video link
-3. For contributing.md we wrote this -  Is the status revisted? Does it include instructions for branch development. Any Clear mentions of the Rules and regulations". Are we doing this? Adding checkpoints and stuff?
-
-Yes or No 
-1. Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?
-2. Is there a suppport email address ? Are e-mails to your support e-mail address received by more than one person?
-3. Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional? - Link to the license on the website?
-4. Does your website state how many projects and users are associated with your project?
-5. Do you have a recommended citation for your software?
-6. Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?  
-
 | Notes                                               | Evidence                                                    | Score(X/Total) |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
 | Video                                               | [Video]() | 3     |
