@@ -38,7 +38,21 @@ Thoroughly review the projects done by previous students of CSC 510. Based on th
 All the final scores have been listed in a tabular form project wise - [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/blob/main/proj1/README.md#score-tables-for-allotted-projects)
 
 # Project 2
-TBD
+
+### Task
+Make improvements in different aspects on [calorieApp_server](https://github.com/deekay2310/calorieApp_server), which is a web-based project from a previous semester team.
+We do job in bug fixing, new features implementation, optimizing documents and so on.
+
+### Submission:
+Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj2) 
+Our Github repo: [Group74`s Repo for proj2](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server)
 
 # Project 3 
-TBD
+
+### Task
+Continue to make improvements in different aspects on [Simplii](https://github.com/nisarg210/Simplii), which is a web-based project from a current semester team.
+We do job in bug fixing, new features implementation, optimizing documents and so on.
+
+### Submission:
+Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj3) 
+Our Github repo: [Group74`s Repo for proj3](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
