@@ -17,8 +17,8 @@ Link to the video explaining the enhancements and bug fixes - [Video]()
 | Issues are being closed                             | [Issues Closed](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues?q=is%3Aissue+is%3Aclosed)                                     | 3     |
 | DOI badge: exists                                   | [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md)                                                       | 3     |
 | Docs: doco generated, format not ugly               | You can find [docs](https://github.com/aditicsalunkhe/Simplii-Group74-2023) at many places.                                                      | 3     |
-| Docs: what: point descriptions of each class/function (in isolation) | [Api Documentation](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/API_DOCUMENTATION.md) - Left                                  |     |
-| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | You can find it as videos in our [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md) - Left                                             |      |
+| Docs: what: point descriptions of each class/function (in isolation) | [Api Documentation](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/API_DOCUMENTATION.md)                                  |   3  |
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | You can find it as videos in our [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md)                                            |  3    |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | Present in the [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md) section.                               | 3     |
 | Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | Present in the [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md) section.                                              | 3     |
 | Use of version control tools                        | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/tree/main)                        | 3     |
@@ -26,13 +26,13 @@ Link to the video explaining the enhancements and bug fixes - [Video]()
 | Use of code formatters.                             | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/.github/workflows/code_formatter.yml)      | 3     |
 | Use of syntax checkers.                             | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/.github/workflows/syntax_checker.yml)              | 3     |
 | Use of code coverage                                | Left                                  |      |
-| Other automated analysis tools                      | Used many automated tools such as Sphinx for API documentation -Left                                          |      |
+| Other automated analysis tools                      | Used many automated tools such as Sphinx for API documentation and many more                                          |   3   |
 | Test cases exist                                    | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/tree/main/src/Simplii_App/test) | 3     |
 | Test cases are routinely executed                   | Left         |      |
 | The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | [Contributing.md](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/CONTRIBUTING.md) | 3     |
 | Issues are discussed before they are closed         | [Discussion](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues?q=is%3Aissue+is%3Aclosed) can be seen in each issue. | 3     |
 | Chat channel: exists                               | [Discord](https://discord.gg/u8eR5kwC)                                          |  3     |
-| Test cases: a large proportion of the issues related to handling failing cases. | Left               |     |
+| Test cases: a large proportion of the issues related to handling failing cases. | You can find it in [issues](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues)               |  2   |
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files | Everyone's [Contribution](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/contributors)  | 3     |
 | Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | Can be seen in Repo and [Insights](https://github.com/aditicsalunkhe/Simplii-Group74-2023/pulse) | 3     |
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | [Commits](https://github.com/aditicsalunkhe/Simplii-Group74-2023/pulse)                        | 3    |
@@ -58,8 +58,8 @@ Link to the video explaining the enhancements and bug fixes - [Video]()
 | Does your software describe how a user can get help with using your software?  | We have provided [Discussion](https://github.com/aditicsalunkhe/Simplii-Group74-2023/discussions) board to discuss those things. | Yes  |
 | Does your website and documentation describe what support, if any, you provide to users and developers?  | There is [ticketing system](https://forms.gle/dXfHKdpCB2PJDXkp7), [troubleshooting](https://github.com/aditicsalunkhe/Simplii-Group74-2023/discussions/32) and [comprehensive documentation](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/DOCUMENTATION.md) available. | Yes  |
 | Does your project have an e-mail address or forum that is solely for supporting users?  | We have [discussions](https://github.com/aditicsalunkhe/Simplii-Group74-2023/discussions) for that. | Yes  |
-| Are e-mails to your support e-mail address received by more than one person?  |  | Yes  |
-| Does your project have a ticketing system to manage bug reports and feature requests?  |  | Yes  |
+| Are e-mails to your support e-mail address received by more than one person?  | The discussion forum is checked by everyone. | Yes  |
+| Does your project have a ticketing system to manage bug reports and feature requests?  | [Ticketing system](https://forms.gle/dXfHKdpCB2PJDXkp7) | Yes  |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?  | It's [here](https://forms.gle/dXfHKdpCB2PJDXkp7) | Yes  |
 | Is your software’s architecture and design modular?  | It's [here](https://forms.gle/dXfHKdpCB2PJDXkp7) | Yes  |
 | Does your software use an accepted coding standard or convention?  | Yes, it adheres to python PEP standards, using pylint in travis.yml file. | Yes  |
