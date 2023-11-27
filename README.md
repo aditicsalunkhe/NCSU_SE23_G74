@@ -44,8 +44,8 @@ Make improvements in different aspects on [calorieApp_server](https://github.com
 We do job in bug fixing, new features implementation, optimizing documents and so on.
 
 ### Submission:
-1.Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj2) 
-2.Our Github repo: [Group74`s Repo for proj2](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server)
+1. Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj2) 
+2. Our Github repo: [Group74`s Repo for proj2](https://github.com/aditicsalunkhe/Group74-CalorieApp_Server)
 
 # Project 3 
 
@@ -54,5 +54,5 @@ Continue to make improvements in different aspects on [Simplii](https://github.c
 We do job in bug fixing, new features implementation, optimizing documents and so on.
 
 ### Submission:
-1.Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj3) 
-2.Our Github repo: [Group74`s Repo for proj3](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
+1. Self-evaluation tabular: [Scores](https://github.com/aditicsalunkhe/NCSU_SE23_G74/tree/main/proj3) 
+2. Our Github repo: [Group74`s Repo for proj3](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
