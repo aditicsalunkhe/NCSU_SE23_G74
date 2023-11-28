@@ -1,9 +1,9 @@
-# Project 2
+# Project 3
 ## Link to our work 
 You can find the link to our enhanced work as a part of the project2 submission - [Here](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
 
 ## Video pitch 
-Link to the video explaining the enhancements and bug fixes - [Video]() 
+Link to the video explaining the enhancements and bug fixes - [Video](https://drive.google.com/file/d/10ysKfwcecwr28sYiTgUISVuCjco6RFj2/view?usp=sharing) 
 
 ## Self Assessment Rubrics
 | Notes                                               | Evidence                                                    | Score(72/90) |
@@ -79,11 +79,11 @@ Link to the video explaining the enhancements and bug fixes - [Video]()
 | Does your documentation list the version number for all third-party dependencies? | It is listed [here](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/requirements.txt) | Yes  |
 | Does your software list the web address, and licenses for all third-party dependencies and say whether the dependencies are mandatory or optional?  | It is listed [here](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/requirements.txt). | Yes |
 |Can you download dependencies using a dependency management tool or package manager?  | We use pip. |Yes  |
-|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?                                                                  |                                                                                                                    |Yes  |
-|Do you have an automated test suite for your software?                                                                                                                                                         |                                                                                                                    |Yes  |
-|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?                                                                                                |                                                                                                                    |Yes   |
-|Do you use continuous integration, automatically running tests whenever changes are made to your source code?                                                                                                  |                                                                                                                    |Yes  |
-|Are your test results publicly visible?                                                                                                                                                                        |                                                                                                                    |Yes  |
+|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?                                                                  | You can find it in [actions](https://github.com/aditicsalunkhe/Simplii-Group74-2023/actions)  |Yes  |
+|Do you have an automated test suite for your software?                                                                                                                                                         | You can find it in [actions](https://github.com/aditicsalunkhe/Simplii-Group74-2023/actions)                                                                                                                   |Yes  |
+|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?                                                                                                | You can find it in [actions](https://github.com/aditicsalunkhe/Simplii-Group74-2023/actions)                                                                                                                    |Yes   |
+|Do you use continuous integration, automatically running tests whenever changes are made to your source code?                                                                                                  | You can find it in [actions](https://github.com/aditicsalunkhe/Simplii-Group74-2023/actions)                                                                                                                    |Yes  |
+|Are your test results publicly visible?                                                                                                                                                                        | You can see it in test [subdirectory](https://github.com/aditicsalunkhe/Simplii-Group74-2023/tree/main/test)                                                                                                                   |Yes  |
 |Are all manually-run tests documented                                                                                                                                                                          |                                                                                                                    |No   |
 | Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? | We have it [here](https://github.com/aditicsalunkhe/Simplii-Group74-2023/discussions) |Yes  |
 |Does your website state how many projects and users are associated with your project?  | You can see it in [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023). |Yes  |
