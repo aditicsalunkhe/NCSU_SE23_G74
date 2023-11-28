@@ -1,6 +1,6 @@
 # Project 3
 ## Link to our work 
-You can find the link to our enhanced work as a part of the project2 submission - [Here](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
+You can find the link to our enhanced work as a part of the project3 submission - [Here](https://github.com/aditicsalunkhe/Simplii-Group74-2023)
 
 ## Video pitch 
 Link to the video explaining the enhancements and bug fixes - [Video](https://drive.google.com/file/d/10ysKfwcecwr28sYiTgUISVuCjco6RFj2/view?usp=sharing) 
