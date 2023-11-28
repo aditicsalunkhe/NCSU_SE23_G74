@@ -11,7 +11,7 @@ Link to the video explaining the enhancements and bug fixes - [Video](https://dr
 | Video                                               | Present in the [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md) section. | 3     |
 | Workload is spread over the whole team              | [Contributors](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/contributors)                                      | 3     |
 | but nevertheless, here is a track record that everyone is contributing a lot) | [Contributors](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/contributors)                                              | 3     |
-| Number of commits                                   | 120 [Commits](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/commit-activity)                                                     | 3    |
+| Number of commits                                   | 170 [Commits](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/commit-activity)                                                     | 3    |
 | Number of commits: by different people              | [Commits](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/commit-activity)                                                      | 3    |
 | Issues reports: there are many                      | [Issues](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues)                                        | 3    |
 | Issues are being closed                             | [Issues Closed](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues?q=is%3Aissue+is%3Aclosed)                                     | 3     |
