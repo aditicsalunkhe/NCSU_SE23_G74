@@ -6,7 +6,7 @@ You can find the link to our enhanced work as a part of the project3 submission 
 Link to the video explaining the enhancements and bug fixes - [Video](https://drive.google.com/file/d/10ysKfwcecwr28sYiTgUISVuCjco6RFj2/view?usp=sharing) 
 
 ## Self Assessment Rubrics
-| Notes                                               | Evidence                                                    | Score(72/90) |
+| Notes                                               | Evidence                                                    | Score(89/90) |
 | --------------------------------------------------- | ----------------------------------------------------------- | ----- |
 | Video                                               | Present in the [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/README.md) section. | 3     |
 | Workload is spread over the whole team              | [Contributors](https://github.com/aditicsalunkhe/Simplii-Group74-2023/graphs/contributors)                                      | 3     |
