@@ -25,10 +25,10 @@ Link to the video explaining the enhancements and bug fixes - [Video](https://dr
 | Use of style checkers                               | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/.github/workflows/style_checker.yml)                        | 3     |
 | Use of code formatters.                             | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/.github/workflows/code_formatter.yml)      | 3     |
 | Use of syntax checkers.                             | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/.github/workflows/syntax_checker.yml)              | 3     |
-| Use of code coverage                                | Left                                  |      |
+| Use of code coverage                                | We have a badge in [Readme](https://github.com/aditicsalunkhe/Simplii-Group74-2023)               |   3   |
 | Other automated analysis tools                      | Used many automated tools such as Sphinx for API documentation and many more                                          |   3   |
 | Test cases exist                                    | [Link](https://github.com/aditicsalunkhe/Simplii-Group74-2023/tree/main/src/Simplii_App/test) | 3     |
-| Test cases are routinely executed                   | Left         |      |
+| Test cases are routinely executed                   | We have it in [test](https://github.com/aditicsalunkhe/Simplii-Group74-2023/tree/main/test) subdirectory.         |  3    |
 | The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | [Contributing.md](https://github.com/aditicsalunkhe/Simplii-Group74-2023/blob/main/CONTRIBUTING.md) | 3     |
 | Issues are discussed before they are closed         | [Discussion](https://github.com/aditicsalunkhe/Simplii-Group74-2023/issues?q=is%3Aissue+is%3Aclosed) can be seen in each issue. | 3     |
 | Chat channel: exists                               | [Discord](https://discord.gg/u8eR5kwC)                                          |  3     |
